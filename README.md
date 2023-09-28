@@ -1,19 +1,18 @@
-# flutternotepad
+# Flutter Notepad App
 
-A new Flutter project.
+A Flutter notepad app is a digital application designed to help users save important information on their mobile devices.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add Important Notes**: Users can add important notes using this app. The app uses an SQLite offline database to store these notes securely on the user's device.
 
-A few resources to get you started if this is your first Flutter project:
+- **Delete Notes**: Users can easily delete notes they no longer need. This feature provides a simple and intuitive way to manage their saved information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Update Notes**: The app allows users to edit and update their existing notes, ensuring that they can keep their information up to date.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
 ![alt text](https://github.com/umarazizdev/NotePad/blob/main/assets/1.jpg)
 ![alt text](https://github.com/umarazizdev/NotePad/blob/main/assets/2.jpg)
 ![alt text](https://github.com/umarazizdev/NotePad/blob/main/assets/3.jpg)
